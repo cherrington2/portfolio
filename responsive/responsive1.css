@@ -1,0 +1,54 @@
+/*This stylesheet creates a q 4x1 format */
+p{
+	color:black;
+}
+
+#maingrid {
+	text-align: center;
+	width: 800px;
+	height:200px;
+}
+
+#grid1 {
+		width: 25%; float:left;
+		height: 100%;
+		background-color: WhiteSmoke;
+}
+
+#grid2 {
+		width: 25%; float:left;
+		height: 100%;
+		background-color: Lime;
+}
+
+#grid3 {
+	width: 25%; float:left;
+	height: 100%;
+	background-color: Lavender;
+}
+
+#grid4 {
+	width: 25%; float:left;
+	height: 100%;
+	background-color: Khaki;
+}
+#grid5 {
+	width: 25%; float:left;
+	height: 100%;
+	background-color: Fuchsia;
+}
+#grid6 {
+	width: 25%; float:left;
+	height: 100%;
+	background-color: Coral;
+}
+#grid7 {
+	width: 25%; float:left;
+	height: 100%;
+	background-color: Azure;
+}
+#grid8 {
+	width: 25%; float:left;
+	height: 100%;
+	background-color: Aqua;
+}
